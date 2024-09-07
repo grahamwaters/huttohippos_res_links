@@ -13,6 +13,48 @@
     "Additional_Resources": {
       "School_Policies": "https://www.hipponation.org",
       "Volunteer_and_Mentoring": "https://www.hipponation.org"
-    }
+    },
+    "Grade_Levels": {
+      "Pre-K": {
+        "Curriculum": "Early childhood development and basic skills focus",
+        "Key_Tools": ["Skyward", "ClassLink"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      },
+      "Kindergarten": {
+        "Curriculum": "Foundational literacy and math",
+        "Key_Tools": ["Skyward", "ClassLink"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      },
+      "1st_Grade": {
+        "Curriculum": "Building on literacy, math, science, and social studies",
+        "Key_Tools": ["PebbleGo", "ClassLink"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      },
+      "2nd_Grade": {
+        "Curriculum": "Intermediate skills in literacy, math, and exploratory science",
+        "Key_Tools": ["Skyward", "ClassLink"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      },
+      "3rd_Grade": {
+        "Curriculum": "Focus on literacy comprehension, math problem-solving, and science experiments",
+        "Key_Tools": ["PebbleGo", "ClassLink"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      },
+      "4th_Grade": {
+        "Curriculum": "Advanced literacy, state history, and science",
+        "Key_Tools": ["ClassLink", "Skyward"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      },
+      "5th_Grade": {
+        "Curriculum": "Pre-middle school transition with advanced math, science, and U.S. history",
+        "Key_Tools": ["Skyward", "PebbleGo"],
+        "Lunch_Schedule": "https://res.hipponation.org/lunch-schedules"
+      }
+    },
+    "School_Policies": "https://res.hipponation.org/school-policies",
+    "Meal_Payments": "https://linqconnect.com",
+    "Bus_Routes": "https://www.infofinderi.com",
+    "Parent_Resources": "https://res.hipponation.org/parent-resources",
+    "District_Calendar": "https://www.hipponation.org/district-calendar"
   }
 }
