@@ -1,0 +1,18 @@
+{
+  "Ray_Elementary": {
+    "Homepage": "https://res.hipponation.org",
+    "Administration": "https://res.hipponation.org/about-res",
+    "Parents_and_Students": {
+      "Attendance_and_Zones": "https://www.hipponation.org/attendance",
+      "Bus_Routes": "https://www.infofinderi.com",
+      "Cafeteria_Menus": "https://hipponation.nutrislice.com",
+      "Meal_Payments": "https://linqconnect.com"
+    },
+    "RES_Staff": "https://res.hipponation.org/staff",
+    "Academics_and_Library": "https://res.hipponation.org/academics",
+    "Additional_Resources": {
+      "School_Policies": "https://www.hipponation.org",
+      "Volunteer_and_Mentoring": "https://www.hipponation.org"
+    }
+  }
+}
